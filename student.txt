@@ -1,0 +1,5 @@
+101,sada,mechanical
+102,sanjay,computer science
+103,anil,information science
+104,rakshith,computer science
+105,arvind,mechanical
